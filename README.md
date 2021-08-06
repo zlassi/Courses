@@ -4,4 +4,4 @@ Pour cette intégration, préviligier le SASS
 
 ## Preview
 
-![Courses][screenshot.png]
+![Courses](screenshot.png)
